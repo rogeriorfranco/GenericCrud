@@ -1,0 +1,9 @@
+C:\Projetos\Projetas\GenericCrud\GenericCrud\bin\Debug\netcoreapp2.0\GenericCrud.deps.json
+C:\Projetos\Projetas\GenericCrud\GenericCrud\bin\Debug\netcoreapp2.0\GenericCrud.dll
+C:\Projetos\Projetas\GenericCrud\GenericCrud\obj\Debug\netcoreapp2.0\GenericCrud.csprojResolveAssemblyReference.cache
+C:\Projetos\Projetas\GenericCrud\GenericCrud\obj\Debug\netcoreapp2.0\GenericCrud.csproj.CoreCompileInputs.cache
+C:\Projetos\Projetas\GenericCrud\GenericCrud\obj\Debug\netcoreapp2.0\GenericCrud.AssemblyInfoInputs.cache
+C:\Projetos\Projetas\GenericCrud\GenericCrud\obj\Debug\netcoreapp2.0\GenericCrud.AssemblyInfo.cs
+C:\Projetos\Projetas\GenericCrud\GenericCrud\bin\Debug\netcoreapp2.0\GenericCrud.pdb
+C:\Projetos\Projetas\GenericCrud\GenericCrud\obj\Debug\netcoreapp2.0\GenericCrud.dll
+C:\Projetos\Projetas\GenericCrud\GenericCrud\obj\Debug\netcoreapp2.0\GenericCrud.pdb

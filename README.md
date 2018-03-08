@@ -1,1 +1,3 @@
-# Crud generico utilizando Entity Framework .Net Core library.
+# Crud generico
+
+Entity Framework .Net Core library.
